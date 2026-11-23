@@ -1,0 +1,40 @@
+
+
+
+/* menu principale*/
+.navbar{
+    border: 1px solid #111827;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.button{
+    background-color: rgb(18, 18, 18);
+    color: rgb(208, 217, 224);
+    border: none;
+    border-radius: 5px;
+    
+
+}
+main{
+    padding: 80px 80px;
+    text-align: center;
+    background-color: rgb(138, 114, 69);
+    
+    
+}
+
+footer{
+    background-color: lightslategray;
+    margin-top: 0px;
+    padding: 20px 40px;
+}
+header{
+    background-color: lightslategray;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
